@@ -1,0 +1,7 @@
+{
+    "token" : "<ENTER YOUR OWN BOT TOKEN>",
+    "prefix" : "!",
+    "PREFIX" : "mm",
+    "channel_collect_pics" : "<Enter the code of the channel that you want to post the collected images>",
+    "GOOGLE_API_KEY" : "<Enter your Google API Key>"
+}
