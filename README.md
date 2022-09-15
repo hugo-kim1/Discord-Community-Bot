@@ -1,6 +1,6 @@
 # Discord-Community-Bot
 ## latest update: Jan. 2020
-### The commands to operate the bot are mainly written in korean.
+### The commands and messages (e.g., error msgs) are mainly written in korean.
 
 Discord bot with features that aid the community
 
